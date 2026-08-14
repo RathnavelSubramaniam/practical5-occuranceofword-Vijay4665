@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class CharacterCounter {
+public class CharacterCount {
 
     public static void main(String[] args) {
 
